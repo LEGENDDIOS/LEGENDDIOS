@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @LEGENDDIOS
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+apt update 
 
-<!---
-LEGENDDIOS/LEGENDDIOS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+apt upgrade
+
+pkg install python2
+
+pkg install git
+
+pip2 install requests
+
+pip2 install mechanize
+
+pip2 install lolcat
+
+git clone https://github.com/LEGENR0H1T/ROHIT.git
+
+cd ROHIT
+
+python2 ROHIT.py
