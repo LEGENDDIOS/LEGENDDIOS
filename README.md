@@ -12,8 +12,8 @@ pip2 install mechanize
 
 pip2 install lolcat
 
-git clone https://github.com/LEGENR0H1T/ROHIT.git
+git clone https://github.com/LEGENDIOS/DIOS.git
 
-cd ROHIT
+cd DIOS
 
-python2 ROHIT.py
+python2 DIOS.py
